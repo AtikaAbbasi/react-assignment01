@@ -34,7 +34,7 @@ const Recipes = () => {
 
 <div className='paraparent'>
 <h1 className='boldfont'>  Welcome to <span className='span1'>YummySaga</span></h1>
-<p className='mypara'>Welcome to Sweet Slice, where we turn your celebrations into sweet memories. From birthdays to weddings, we create cakes that are not only beautiful but also incredibly delicious. With the finest ingredients and creative designs, every cake is made to make your special moments even more unforgettable.</p>
+<p className='mypara'>Welcome to Sweet Slice, where every recipe brings a smile. From quick desserts to elegant bakes, we share recipes that add sweetness to your everyday moments. Using simple ingredients and creative ideas, each recipe is crafted to inspire joy in your kitchen.</p>
 
 <button type="button" class="btn hoverbtn">Order Now </button>
 </div>
