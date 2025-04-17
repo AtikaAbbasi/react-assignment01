@@ -521,10 +521,10 @@ border: 2px solid orange;
     font-size: 30px;
     color: #fd9105;
     font-weight: bold;
-    border-bottom: 4px double black;
+ 
     margin-bottom: 30px;
 margin-bottom: 2em;
-    width: 450px;
+
     margin: 0 auto;
   }
   
@@ -954,6 +954,13 @@ margin-bottom: 2em;
   /* media qures⭐🌟🌟🌟⭐🌟🌟🌟🌟 */
 
 
+  @media(max-width:759px){
+    .detailimge{
+      width: 100%;
+      
+    }
+  }
+
   @media(max-width:530px){
     .imge{
         width: 250px;
@@ -987,6 +994,11 @@ margin-bottom: 2em;
     }
     .sectionthree{
         height:455px ;
+    }
+
+    .detailimge{
+     height: 270px;
+      
     }
 }
 
