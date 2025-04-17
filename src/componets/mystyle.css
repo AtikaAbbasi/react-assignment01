@@ -752,17 +752,40 @@ margin-bottom: 2em;
     margin: 0;
     font-size: 13px;
   }
+
+
+  .social-icons {
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    background: #111;
+    
+  }
   
   .social-icons a {
-    color: #fff;
-    margin-left: 15px;
-    font-size: 28px;
-    transition: color 0.3s;
+    width: 45px;
+    height: 45px;
+    background: #fff;
+    color: #111;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50%;
+    font-size: 20px;
+    transition: transform 0.4s ease, background 0.3s ease, color 0.3s ease;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.2);
+    text-decoration: none;
   }
   
   .social-icons a:hover {
-    color: #ffa600;
+    transform: rotate(360deg) scale(1.2);
+    color: #ff990a;
   }
+  
+  /* Individual Brand Colors */
+  .social-icons a:nth-child
 
 
   .logo {
