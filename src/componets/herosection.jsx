@@ -39,9 +39,7 @@ let Herosction = () =>{
  
  <div className='heromain'>
 
-    <div className='imge'>
-
-    </div>
+    
 
  <div className='paraparent'>
     <h1 className='boldfont'>  Welcome to <span className='span1'>YummySaga</span></h1>
@@ -50,6 +48,10 @@ let Herosction = () =>{
  <button type="button" class="btn hoverbtn orderbtn">Order Now </button>
  </div>
    
+
+ <div className='imge'>
+
+</div>
 
 </div>
 

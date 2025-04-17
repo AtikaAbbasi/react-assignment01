@@ -27,10 +27,6 @@ return (
 
 <div className='heromain'>
 
-<div className='imge'>
-
-</div>
-
 <div className='paraparent'>
 <h1 className='boldfont'>  Welcome to <span className='span1'>YummySaga</span></h1>
 <p className='mypara'>Welcome to Sweet Slice, where we turn your celebrations into sweet memories. From birthdays to weddings, we create cakes that are not only beautiful but also incredibly delicious. With the finest ingredients and creative designs, every cake is made to make your special moments even more unforgettable.</p>
@@ -38,6 +34,9 @@ return (
 <button type="button" class="btn hoverbtn">Order Now </button>
 </div>
 
+<div className='imge'>
+
+</div>
 
 </div>
 

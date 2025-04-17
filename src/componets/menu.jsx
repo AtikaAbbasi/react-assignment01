@@ -31,9 +31,6 @@ const Recipes = () => {
 
 <div className='heromain boxchange'>
 
-<div className='imge'>
-
-</div>
 
 <div className='paraparent'>
 <h1 className='boldfont'>  Welcome to <span className='span1'>YummySaga</span></h1>
@@ -42,6 +39,10 @@ const Recipes = () => {
 <button type="button" class="btn hoverbtn">Order Now </button>
 </div>
 
+
+<div className='imge'>
+
+</div>
 
 </div>
 
